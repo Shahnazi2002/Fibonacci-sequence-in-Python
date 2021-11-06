@@ -1,4 +1,4 @@
 # Fibonacci-number-detector-function
-A function for detects the Fibonacci number
+A function for detect the Fibonacci number
 
 تابع تشخیص دهنده عدد فیبوناچی
