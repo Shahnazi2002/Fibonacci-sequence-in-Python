@@ -1,4 +1,3 @@
-# Fibonacci-number-detector-function
-A function for detect the Fibonacci number
+# Fibonacci-sequence-in-Python
 
-تابع تشخیص دهنده عدد فیبوناچی
+دنباله اعداد فیبوناچی در پایتون
